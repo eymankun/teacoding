@@ -49,6 +49,12 @@ body {
   font-size: 60px;
 }
 
+.responsive {
+  max-width: 100%;
+  max-width: 100px;
+  height: auto;
+}
+
 /*footer*/
 .page-footer {
   background-color: #444444;
